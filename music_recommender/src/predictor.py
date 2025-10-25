@@ -4,7 +4,7 @@
 import joblib
 import pands as pd
 
-def predict_species(features, model_path):
+def predict_music(features, model_path):
     """
     features: list of 4 numeric values (sepal length, sepal width, petal length, petal width)
     """
